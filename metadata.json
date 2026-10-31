@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Campus Pulse - AI Campus Life & Notice Intelligence",
+  "description": "AI-powered college announcement aggregator and priority intelligence dashboard that turns messy WhatsApp forwards, emails, and flyers into structured actionable cards with calendar sync and weekly digests.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
